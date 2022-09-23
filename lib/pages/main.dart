@@ -2,14 +2,13 @@ import 'package:deyegnose/pages/statistics.dart';
 import 'package:flutter/material.dart';
 import 'package:syncfusion_flutter_core/core.dart';
 
-
 import 'history.dart';
 import 'home.dart';
-import 'package:dcdg/dcdg.dart';
 
-void main(){ 
-	SyncfusionLicense.registerLicense("NT8mJyc2IWhiZH1nfWN9Z2NoYmF8YGJ8ampqanNiYmlmamlmanMDHmgyNSE6Nzp9IDI3NjYifT4TND4yOj99MDw"); 
-	return runApp(MyApp());
+void main() {
+  SyncfusionLicense.registerLicense(
+      "NT8mJyc2IWhiZH1nfWN9Z2NoYmF8YGJ8ampqanNiYmlmamlmanMDHmgyNSE6Nzp9IDI3NjYifT4TND4yOj99MDw+");
+  return runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {

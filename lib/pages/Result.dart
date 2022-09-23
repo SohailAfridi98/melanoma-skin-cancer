@@ -157,7 +157,7 @@ class _ResultState extends State<ResultScreenState> {
     try {
       String res;
       res = await Tflite.loadModel(
-        model: "assets/model.tflite",
+        model: "assets/model2.tflite",
         labels: "assets/labels.txt",
       );
       print(res);
