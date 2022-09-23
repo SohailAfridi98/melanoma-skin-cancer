@@ -1,6 +1,6 @@
-# deyegnose
+# Melanoma Cancer Disease Detection
 
-A Flutter Application based on Deep Learning to diagnose Diabetic Retinopathy from retina images
+A Flutter Application based on Deep Learning to diagnose Melanoma from images
 
 ## Getting Started
 
